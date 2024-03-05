@@ -1,12 +1,13 @@
 ### About
 
-Hi, I am Lin Oshitani, a software engineer living in Tokyo. I am currently working on the Tezos blockchain using OCaml.
+Hi, I am Lin Oshitani, an OCaml programmer and Blockchain enthusiast living in Tokyo.
 
 #### Career
 
-* M.S.E., Computer Science, Tohoku University
-* Software Engineer, Indeed.com
-* Tezos Core Dev, Marigold
+* M.S.E., Computer Science, Tohoku University, 2018
+* Software Engineer, Indeed.com, 2018 - 2022
+* Tezos Core Dev, Marigold, 2022 - 2024
+* Protocol Researcher, Nethermind, 2024 -
 
 <!--
 **linoscope/linoscope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
