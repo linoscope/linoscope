@@ -3,11 +3,10 @@
 Hi, I am Lin Oshitani, an OCaml programmer and Blockchain enthusiast living in Tokyo.
 
 #### Career
-
-* M.S.E., Computer Science, Tohoku University, 2018
-* Software Engineer, Indeed.com, 2018 - 2022
-* Tezos Core Dev, Marigold, 2022 - 2024
 * Protocol Researcher, Nethermind, 2024 -
+* Tezos Core Dev, Marigold, 2022 - 2024
+* Software Engineer, Indeed.com, 2018 - 2022
+* M.S.E., Computer Science, Tohoku University, 2018
 
 <!--
 **linoscope/linoscope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
