@@ -1,8 +1,6 @@
 ## About
 
-Hi, I am Lin Oshitani, a blockchain researcher and OCaml programmer living in Tokyo. Currently a protocol researcher at Nethermind, ex. Tezos core dev at Marigold and software engineer at Indeed.
-
-My social links: [GitHub](https://github.com/linoscope/) [GitLab](https://gitlab.com/linoscope) [Twitter](https://twitter.com/linoscope/) [Linkedin](https://linkedin.com/in/lin-oshitani-a256a813a/) [Email](mailto:linoshitani@gmail.com)
+Hi, I am Lin Oshitani, a blockchain researcher and OCaml programmer living in Tokyo. Currently a protocol researcher at Nethermind, ex. Tezos core dev at Marigold and software engineer at Indeed. Socials: [GitHub](https://github.com/linoscope/) [GitLab](https://gitlab.com/linoscope) [Twitter](https://twitter.com/linoscope/) [Linkedin](https://linkedin.com/in/lin-oshitani-a256a813a/) [Email](mailto:linoshitani@gmail.com)
 
 ## Writings
 
